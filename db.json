@@ -1,8 +1,6 @@
-
- {"posts":
-  [
+[
     {"value":30,"label":"Washington, DC, USA"},
     {"value":31,"label":"Windsor, Ontario, Canada"},
     {"value":111,"label":"Wylie, Texas, USA"}
   ]
-}
+
